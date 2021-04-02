@@ -10,9 +10,10 @@
 [submodule "05-shopping-cart"]
 	path = 05-shopping-cart
 	url = git@github.com:MarconWillian/_ignite-shopping-cart.git
-[submodule "07-ignews"]
-	path = 07-ignews
-	url = git@github.com:MarconWillian/_ignite-ignews.git
 [submodule "06-dash-go-gestaurante"]
 	path = 06-dash-go-gestaurante
 	url = git@github.com:MarconWillian/_ignite-dash-goestaurant.git
+
+[submodule "07-ignews"]
+	path = 07-ignews
+	url = git@github.com:MarconWillian/_ignite-ignews.git
