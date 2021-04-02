@@ -17,3 +17,6 @@
 [submodule "07-ignews"]
 	path = 07-ignews
 	url = git@github.com:MarconWillian/_ignite-ignews.git
+[submodule "08-spacetraveling"]
+	path = 08-spacetraveling
+	url = git@github.com:MarconWillian/_ignite-spacetraveling.git
