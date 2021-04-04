@@ -20,6 +20,6 @@
 [submodule "08-spacetraveling"]
 	path = 08-spacetraveling
 	url = git@github.com:MarconWillian/_ignite-spacetraveling.git
-[submodule "09-dash-go"]
-	path = 09-dash-go
+[submodule "10-dash-go"]
+	path = 10-dash-go
 	url = git@github.com:MarconWillian/_ignite-dash-go.git
