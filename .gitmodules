@@ -1,25 +1,24 @@
 [submodule "02-todo"]
 	path = 02-todo
-	url = git@github.com:MarconWillian/_ignite-todo.git
+	url = git@github.com:MarconWillian-Study/_ignite-todo.git
 [submodule "03-watchme"]
 	path = 03-watchme
-	url = git@github.com:MarconWillian/_ignite-watchme.git
+	url = git@github.com:MarconWillian-Study/_ignite-watchme.git
 [submodule "04-dt-money"]
 	path = 04-dt-money
-	url = git@github.com:MarconWillian/_ignite-dt-money.git
+	url = git@github.com:MarconWillian-Study/_ignite-dt-money.git
 [submodule "05-shopping-cart"]
 	path = 05-shopping-cart
-	url = git@github.com:MarconWillian/_ignite-shopping-cart.git
+	url = git@github.com:MarconWillian-Study/_ignite-shopping-cart.git
 [submodule "06-dash-go-gestaurante"]
 	path = 06-dash-go-gestaurante
-	url = git@github.com:MarconWillian/_ignite-dash-goestaurant.git
-
+	url = git@github.com:MarconWillian-Study/_ignite-dash-goestaurant.git
 [submodule "07-ignews"]
 	path = 07-ignews
-	url = git@github.com:MarconWillian/_ignite-ignews.git
+	url = git@github.com:MarconWillian-Study/_ignite-ignews.git
 [submodule "08-spacetraveling"]
 	path = 08-spacetraveling
-	url = git@github.com:MarconWillian/_ignite-spacetraveling.git
+	url = git@github.com:MarconWillian-Study/_ignite-spacetraveling.git
 [submodule "10-dash-go"]
 	path = 10-dash-go
-	url = git@github.com:MarconWillian/_ignite-dash-go.git
+	url = git@github.com:MarconWillian-Study/_ignite-dash-go.git
